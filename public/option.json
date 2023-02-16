@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "Push Up",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda autem rerum reiciendis! Assumenda sunt consectetur minus quos, deserunt neque accusantium. Dolore deleniti molestias quas nesciunt natus, consectetur cum blanditiis architecto.",
+        "age": "20-25",
+        "time": 10
+    },
+    {
+        "id": 2,
+        "name": "Pull Up",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda autem rerum reiciendis! Assumenda sunt consectetur minus quos, deserunt neque accusantium. Dolore deleniti molestias quas nesciunt natus, consectetur cum blanditiis architecto.",
+        "age": "20-25",
+        "time": 10
+    },
+    {
+        "id": 3,
+        "name": "Dumble Up",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda autem rerum reiciendis! Assumenda sunt consectetur minus quos, deserunt neque accusantium. Dolore deleniti molestias quas nesciunt natus, consectetur cum blanditiis architecto.",
+        "age": "20-25",
+        "time": 15
+    },
+    {
+        "id": 4,
+        "name": "Shoulder Pum",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda autem rerum reiciendis! Assumenda sunt consectetur minus quos, deserunt neque accusantium. Dolore deleniti molestias quas nesciunt natus, consectetur cum blanditiis architecto.",
+        "age": "20-25",
+        "time": 20
+    },
+    {
+        "id": 5,
+        "name": "Squat",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda autem rerum reiciendis! Assumenda sunt consectetur minus quos, deserunt neque accusantium. Dolore deleniti molestias quas nesciunt natus, consectetur cum blanditiis architecto.",
+        "age": "20-25",
+        "time": 10
+    },
+    {
+        "id": 6,
+        "name": "Cine Up",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda autem rerum reiciendis! Assumenda sunt consectetur minus quos, deserunt neque accusantium. Dolore deleniti molestias quas nesciunt natus, consectetur cum blanditiis architecto.",
+        "age": "20-25",
+        "time": 15
+    },
+    {
+        "id": 7,
+        "name": "Inkline",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda autem rerum reiciendis! Assumenda sunt consectetur minus quos, deserunt neque accusantium. Dolore deleniti molestias quas nesciunt natus, consectetur cum blanditiis architecto.",
+        "age": "20-25",
+        "time": 20
+    }
+]
