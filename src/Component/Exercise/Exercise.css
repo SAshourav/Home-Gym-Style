@@ -5,6 +5,10 @@
     height: 510px;
     position: relative;
 }
+.container img{
+    margin-top: 30px;
+    max-width: 250px;
+}
 .btn{
     font-weight: 600;
     color: white;
